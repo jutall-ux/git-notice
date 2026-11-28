@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P8\\Homework\\Homework\\Homework.csproj": {}
+    "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P5\\Homework\\Homework\\Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P8\\Homework\\Homework\\Homework.csproj": {
+    "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P5\\Homework\\Homework\\Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P8\\Homework\\Homework\\Homework.csproj",
+        "projectUniqueName": "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P5\\Homework\\Homework\\Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P8\\Homework\\Homework\\Homework.csproj",
+        "projectPath": "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P5\\Homework\\Homework\\Homework.csproj",
         "packagesPath": "C:\\Users\\Бербер\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P8\\Homework\\Homework\\obj\\",
+        "outputPath": "C:\\Users\\Бербер\\Documents\\Code-Portfolio\\Course1\\Practice\\P5\\Homework\\Homework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

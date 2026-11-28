@@ -1,0 +1,16 @@
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\bin\Debug\net10.0\homework.exe
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\bin\Debug\net10.0\homework.deps.json
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\bin\Debug\net10.0\homework.runtimeconfig.json
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\bin\Debug\net10.0\homework.dll
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\bin\Debug\net10.0\homework.pdb
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\homework.AssemblyInfoInputs.cache
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\homework.AssemblyInfo.cs
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\homework.sourcelink.json
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\homework.dll
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\refint\homework.dll
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\homework.pdb
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\homework.genruntimeconfig.cache
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\ref\homework.dll
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Homeworks\H10\homework\homework\obj\Debug\net10.0\homework.csproj.Up2Date

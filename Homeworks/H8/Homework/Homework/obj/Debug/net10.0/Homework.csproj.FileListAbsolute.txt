@@ -1,0 +1,16 @@
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\Homework.AssemblyInfoInputs.cache
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\Homework.AssemblyInfo.cs
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\Homework.sourcelink.json
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\bin\Debug\net10.0\Homework.exe
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\bin\Debug\net10.0\Homework.deps.json
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\bin\Debug\net10.0\Homework.runtimeconfig.json
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\bin\Debug\net10.0\Homework.dll
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\bin\Debug\net10.0\Homework.pdb
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\Homework.dll
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\refint\Homework.dll
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\Homework.pdb
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\Homework.genruntimeconfig.cache
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\ref\Homework.dll
+C:\Users\Бербер\Documents\Code-Portfolio\Course1\Practice\P8\Homework\Homework\obj\Debug\net10.0\Homework.csproj.Up2Date
